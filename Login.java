@@ -21,7 +21,7 @@ Login(){
         add(heading);
          JLabel name = new JLabel("Enter your name");
         name.setBounds(810, 150, 300, 20);
-        name.setFont(new Font("Mongolian Baiti", Font.BOLD, 18));
+        name.setFont(new Font("Mongolian Baiti", Font.BOLD, 20));
         name.setForeground(new Color(30, 144, 254));
         add(name);
         setSize(1200, 500);
